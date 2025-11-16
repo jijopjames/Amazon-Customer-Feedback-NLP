@@ -22,7 +22,7 @@ This repository currently includes the **foundation layer**: project structure, 
 
 ## 📁 Current Folder Structure
 
-Amazon-Customer-Feedback-NLP/
+`Amazon-Customer-Feedback-NLP/
 │
 ├── app/ # (Future) FastAPI/Streamlit apps
 │
@@ -48,7 +48,7 @@ Amazon-Customer-Feedback-NLP/
 │ │ ├── logger.py # (Optional) Logger - reserved for later stages
 │
 ├── README.md
-└──requirements.txt
+└──requirements.txt`
 
 
 ---
