@@ -7,9 +7,9 @@ ROOT_DIR = os.path.dirname(os.path.dirname(__file__))
 DATA_DIR = os.path.join(ROOT_DIR, "data")
 RAW_DATA_DIR = os.path.join(DATA_DIR, "raw")
 PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")
-CHUNK_SIZE = 50000  # can change later
+CHUNK_SIZE = 5000  # can change later
 FILE_EXTENSION = ".jsonl.gz"  # for auto-detection
-MAX_CHUNKS = 20
+MAX_CHUNKS = 5
 
 
 def ensure_directories():
